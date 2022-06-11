@@ -1,0 +1,11 @@
+E:\projetos VS\proj\MageSnake\MageSnake\bin\Debug\MageSnake.exe.config
+E:\projetos VS\proj\MageSnake\MageSnake\bin\Debug\MageSnake.exe
+E:\projetos VS\proj\MageSnake\MageSnake\bin\Debug\MageSnake.pdb
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.csproj.AssemblyReference.cache
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.csproj.SuggestedBindingRedirects.cache
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.Form1.resources
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.Properties.Resources.resources
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.csproj.GenerateResource.cache
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.csproj.CoreCompileInputs.cache
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.exe
+E:\projetos VS\proj\MageSnake\MageSnake\obj\Debug\MageSnake.pdb
